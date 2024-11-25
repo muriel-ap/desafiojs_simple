@@ -11,7 +11,7 @@ Este proyecto consiste en **hacer funcionales los botones** de una tarjeta de pr
 
 ---
 
-## 🔗 Visualización del Desafío en Completo tipo producto en tienda online:
+## 🔗 Visualización del Desafío Completo en versión Tienda Online:
 [🌐 Producto en Tienda Online - Repositorio en GitHub](https://github.com/muriel-ap/js_desafio1)
 
 ---
